@@ -57,7 +57,7 @@ footer {
 button {
     width: 30px;
     height: 30px;
-    background-image: url(/projeto_final/dark_mode_FILL0_wght400_GRAD0_opsz24.png);
+    background-image: url(/dark_mode_FILL0_wght400_GRAD0_opsz24.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -99,7 +99,7 @@ body.light-mode header, body.light-mode section {
 body.light-mode button {
     width: 30px;
     height: 30px;
-    background-image: url(/projeto_final/light_mode_FILL0_wght400_GRAD0_opsz24.png);
+    background-image: url(/light_mode_FILL0_wght400_GRAD0_opsz24.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
